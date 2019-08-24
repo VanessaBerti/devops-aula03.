@@ -4,4 +4,6 @@
 * GitLab
 * Subversion
 * CVS
-*GitHub
+* GitHub
+* Git
+
